@@ -1,0 +1,27 @@
+def pet_shop_name (x)
+#   x [:name]
+# end
+#
+# def total_cash (x)
+#   x [:admin][:total_cash]
+# end
+#
+# def add_or_remove_cash(x, y)
+#   x [:admin][:total_cash] += y
+# end
+#
+# def add_or_remove_cash(x, y)
+#   x[:admin][:total_cash] += y
+# end
+#
+# def pets_sold(x)
+#   x [:admin][:pets_sold]
+# end
+#
+# def increase_pets_sold (x, y)
+#   x [:admin][:pets_sold] += y
+# end
+#
+# def stock_count(x)
+#   x [:pets].length
+# end
